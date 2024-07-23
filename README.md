@@ -55,3 +55,9 @@ Inicializar o husky
 ```
 npx husky init
 ```
+
+- Bibliotecas para padronizar os commits do git
+
+```
+npm i -D git-commit-msg-linter
+```
