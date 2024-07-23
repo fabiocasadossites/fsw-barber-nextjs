@@ -43,3 +43,15 @@ npm i -D prettier prettier-plugin-tailwindcss
 ```
 npx shadcn-ui@latest init
 ```
+
+-Bibliotecas para chamar o linter na hora co commit
+
+```
+npm i -D husky lint-staged
+```
+
+Inicializar o husky
+
+```
+npx husky init
+```
